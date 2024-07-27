@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("You are using the old loader. Get the new loader at https://dsc.gg/bruhware at the #script channel. If it says you don't have a role/not whitelisted and you believe it is a mistake join the discord and dm the owner")
+game.Players.LocalPlayer:Kick("You are using the old loader. Get the new loader at https://dsc.gg/bruhware at the #script channel. If it says you don't have a role or not whitelisted and you believe it is a mistake join the discord and dm the owner")
